@@ -77,5 +77,10 @@ Most of the work developed during my studies is available in my repositories. Fe
 - 🇬🇧 English: Intermediate (B1/B2)
 
 ## MORE INFORMATION
-
+### Github Stats
 ![Matilde's GitHub stats](https://github-readme-stats.vercel.app/api?username=matilde-varela&show_icons=true&theme=jolly )
+
+<details>
+  <summary><h3>🧚Matilde's Coding Journey</h3>h3</summary>summary
+  Truthfully, my journey into coding began with my fascination for video games. I was always amazed by how lines of code could come together to create immersive experiences for users. This fascination likely influenced my strong interest in frontend development, as I recognize how poorly designed user interfaces can negatively impact user experiences and, ultimately, a business's success.
+Throughout my academic journey, I have been exposed to numerous technologies, which have broadened my skill set and deepened my passion for software development. While frontend remains a key area of interest, I have also developed an appreciation for backend and full-stack development, database management, and exploring the fields of web, software, and mobile application development.
