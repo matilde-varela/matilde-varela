@@ -80,6 +80,8 @@ Most of the work developed during my studies is available in my repositories. Fe
 ### Github Stats
 ![Matilde's GitHub stats](https://github-readme-stats.vercel.app/api?username=matilde-varela&show_icons=true&theme=jolly )
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matilde-varela)](https://github.com/matilde-varela/matilde-varela/edit/main/README.md) 
+
 <details>
   <summary><h3>🧚Matilde's Coding Journey </h3></summary>
   Truthfully, my journey into coding began with my fascination for video games. I was always amazed by how lines of code could come together to create immersive experiences for users. This fascination likely influenced my strong interest in frontend development, as I recognize how poorly designed user interfaces can negatively impact user experiences and, ultimately, a business's success.
