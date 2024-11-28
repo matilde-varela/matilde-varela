@@ -67,8 +67,7 @@ Most of the work developed during my studies is available in my repositories. Fe
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 
-
-
+<br>
 ## SOFT SKILLS
 - 💡 Problem Solving
 - 🗣️ Excellent Communication
