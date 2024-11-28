@@ -66,7 +66,7 @@ Most of the work developed during my studies is available in my repositories. Fe
  
 ## SOFT SKILLS
 - 💡 Problem Solving
-- 🗣️ Excellent Communication
+- 🗣️ Good Communication
 - 🔄 Conflict Resolution
 - 💪 Strong Work Ethic
 - 🔍 Attention to Detail
