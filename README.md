@@ -78,4 +78,4 @@ Most of the work developed during my studies is available in my repositories. Fe
 
 ## MORE INFORMATION
 
-![Matilde's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=jolly )
+![Matilde's GitHub stats](https://github-readme-stats.vercel.app/api?username=matilde-varela&show_icons=true&theme=jolly )
