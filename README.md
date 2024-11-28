@@ -79,10 +79,10 @@ Most of the work developed during my studies is available in my repositories. Fe
 ## MORE INFORMATION
 ### Github Stats
 
-<a href="https://github.com/matilde-varela/matilde-varela/edit/main/README.md">
+<a href="https://github.com/matilde-varela/matilde-varela/blob/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=matilde-varela&show_icons=true&theme=jolly" />
 </a>
-<a href="https://github.com/matilde-varela/matilde-varela/edit/main/README.md">
+<a href="https://github.com/matilde-varela/matilde-varela/blob/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matilde-varela&layout=compact&theme=jolly" />
 </a>
 
