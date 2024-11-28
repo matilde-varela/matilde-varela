@@ -80,7 +80,7 @@ Most of the work developed during my studies is available in my repositories. Fe
 ### Github Stats
 ![Matilde's GitHub stats](https://github-readme-stats.vercel.app/api?username=matilde-varela&show_icons=true&theme=jolly )
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matilde-varela)](https://github.com/matilde-varela/matilde-varela/edit/main/README.md) 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matilde-varela)](https://github.com/matilde-varela/matilde-varela/blob/main/README.md) 
 
 <details>
   <summary><h3>🧚Matilde's Coding Journey </h3></summary>
