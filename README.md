@@ -13,7 +13,6 @@ I plan to continue my academic journey with a master's degree.
 Most of the work developed during my studies is available in my repositories. Feel free to explore them to see the depth of the technologies, frameworks, programming languages, and tools I have worked with.
 
 ## TECHNICAL SKILLS
----
 ### Programming Languages
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -38,6 +37,7 @@ Most of the work developed during my studies is available in my repositories. Fe
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 
+
 ## Database Management Systems
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
@@ -53,14 +53,12 @@ Most of the work developed during my studies is available in my repositories. Fe
 
 
 ### Version Control
-
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" />
 
 
 ## Project Management and Collaboration
----
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 
@@ -69,8 +67,9 @@ Most of the work developed during my studies is available in my repositories. Fe
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 
+
+
 ## SOFT SKILLS
----
 - 💡 Problem Solving
 - 🗣️ Excellent Communication
 - 🔄 Conflict Resolution
@@ -79,6 +78,5 @@ Most of the work developed during my studies is available in my repositories. Fe
 - 🏃‍♂️ Agile & SCRUM Methodologies
 
 ## LANGUAGES
----
 - 🇵🇹 Portuguese: Native
 - 🇬🇧 English: Intermediate (B1/B2)
