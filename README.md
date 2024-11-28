@@ -75,3 +75,7 @@ Most of the work developed during my studies is available in my repositories. Fe
 ## LANGUAGES
 - 🇵🇹 Portuguese: Native
 - 🇬🇧 English: Intermediate (B1/B2)
+
+## MORE INFORMATION
+
+![Matilde's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=jolly )
