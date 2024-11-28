@@ -78,14 +78,13 @@ Most of the work developed during my studies is available in my repositories. Fe
 
 ## MORE INFORMATION
 ### Github Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matilde-varela&layout=compact&theme=jolly )
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=matilde-varela&show_icons=true&theme=jolly" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matilde-varela&layout=compact&theme=jolly " />
 </a>
 
 <details>
