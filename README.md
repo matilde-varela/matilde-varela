@@ -1,6 +1,6 @@
 ## 🧙‍♀️ Matilde Varela
 
-**`(Computer Science Student at ISEP)`**
+**`(Software Engineering Student at ISEP)`**
 
 I am a 3rd-year Software Engineering student at ISEP with a strong interest in frontend development, UI/UX, web and software development, fullstack development, mobile app development, and database management.
 
