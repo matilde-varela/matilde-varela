@@ -1,93 +1,96 @@
-## 🧙‍♀️ Matilde Varela
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" /> Matilde Varela
 
-**`(Software Engineering Student at ISEP)`**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hello
 
-I am a 3rd-year Software Engineering student at ISEP with a strong interest in frontend development, UI/UX, web and software development, fullstack development, mobile app development, and database management.
+I'm a **Software Developer** at [Devscope](https://devscope.net/), with a degree in Software Engineering from ISEP. I work across the full stack with a strong pull toward frontend, UI/UX, and making things feel good to use.
 
-I have experience in problem-solving and teamwork under pressure, with excellent communication skills. I am familiar with all major phases of software development, including requirements gathering, analysis, design, implementation, and testing.
+I'm currently pursuing a master's degree focused on **game development** and **computer graphics** — two areas I've been passionate about since long before I wrote my first line of code.
 
-I am also knowledgeable in team collaboration methodologies, such as Agile and SCRUM.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> About Me
 
-I plan to continue my academic journey with a master's degree.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="25" height="25" /> Experienced in full-stack development, with a particular focus on clean interfaces and user experience.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> **Game dev enthusiast** — currently building a witchcraft-themed JRPG in Godot 4.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> **Graphics & shaders** — fascinated by the intersection of code and visual art.
 
-Most of the work developed during my studies is available in my repositories. Feel free to explore them to see the depth of the technologies, frameworks, programming languages, and tools I have worked with.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="25" height="25" /> Languages
 
+- **Portuguese:** Native
+- **English:** Intermediate (B1/B2)
 
-## TECHNICAL SKILLS
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> What I'm Working On
 
-### Programming Languages
+- Deepening my knowledge of computer graphics and real-time rendering.
+- Open to collaborations on creative software and game projects.
 
-<p style="text-align: center;">
-  <img alt="Java" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="Python" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="C#" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> My Goals
+
+- Work on projects that combine **technology, creativity, and great user experiences**.
+
+---
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="25" height="25" /> Soft Skills
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Team Collaboration**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Speaking%20Head.png" alt="Speaking Head" width="25" height="25" /> **Communication**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" alt="Puzzle Piece" width="25" height="25" /> **Problem Solving**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> **Agile & SCRUM**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> **Attention to Detail**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Calendar" width="25" height="25" /> **Strong Work Ethic**
+
+---
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Tech Stack
+
+## Programming Languages
+
+[![Languages](https://skillicons.dev/icons?i=java,py,cs,c,js,ts,html,css&theme=dark&perline=8)](https://skillicons.dev)
+
+## Frameworks & Libraries
+
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,angular,threejs,nodejs&theme=dark&perline=8)](https://skillicons.dev)
+
+## Database Management Systems
+
+[![Databases](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=8)](https://skillicons.dev)
+<p align="left">
+  <a href="https://www.oracle.com/" title="Oracle">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" />
+  </a>
+  <a href="https://www.oracle.com/database/sqldeveloper/" title="SQL Developer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="SQL Developer" width="48" height="48" />
+  </a>
 </p>
 
-### Frameworks and Libraries
+## Game Development & Graphics
 
-<p style="text-align: center;"> <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-<img alt="Three.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" />
-<img alt=".NET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> </p>
-
-
-### Database Management Systems
-
-<p style="text-align: center;">
-<img alt="SQL Developer" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
-<img alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-<img alt="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+[![Game](https://skillicons.dev/icons?i=godot,blender&theme=dark&perline=8)](https://skillicons.dev)
+<p align="left">
+  <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/" title="GDScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="GDScript" width="48" height="48" />
+  </a>
+  <a href="https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language" title="GLSL / Shader Language">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" alt="GLSL" width="48" height="48" />
+  </a>
 </p>
 
+## Development Environments
 
-### Development Environments
+[![IDEs](https://skillicons.dev/icons?i=idea,vscode&theme=dark&perline=8)](https://skillicons.dev)
 
-<p style="text-align: center;">
-<img alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-<img alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+## Version Control
+
+[![VCS](https://skillicons.dev/icons?i=git,github,bitbucket&theme=dark&perline=8)](https://skillicons.dev)
+
+## Project Management & Collaboration
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,trello&perline=8" alt="Jira Trello" />
 </p>
 
-### Version Control
+---
 
-<p style="text-align: center;">
-<img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />      
-<img alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img alt="Bitbucket" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" />
-</p>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Stats
 
-### Project Management and Collaboration
-
-<p style="text-align: center;">
-<img alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
-<img alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
-</p>
- 
-## SOFT SKILLS
-- 💡 Problem Solving
-- 🗣️ Good Communication
-- 🔄 Conflict Resolution
-- 💪 Strong Work Ethic
-- 🔍 Attention to Detail
-- 🏃‍♂️ Agile & SCRUM Methodologies
- 
-## LANGUAGES
-- 🇵🇹 Portuguese: Native
-- 🇬🇧 English: Intermediate (B1/B2)
-
-## MORE INFORMATION
-### Github Stats
-
-<a href="https://github.com/matilde-varela/matilde-varela/blob/main/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matilde-varela&show_icons=true&theme=jolly" />
-</a>
-<a href="https://github.com/matilde-varela/matilde-varela/blob/main/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matilde-varela&layout=compact&theme=jolly" />
-</a>
-
-<details>
-  <summary><h3>🧚Matilde's Coding Journey </h3></summary>
-  Truthfully, my journey into coding began with my fascination for video games. I was always amazed by how lines of code could come together to create immersive experiences for users. This fascination likely influenced my strong interest in frontend development, as I recognize how poorly designed user interfaces can negatively impact user experiences and, ultimately, a business's success.
-Throughout my academic journey, I have been exposed to numerous technologies, which have broadened my skill set and deepened my passion for software development. While frontend remains a key area of interest, I have also developed an appreciation for backend and full-stack development, database management, and exploring the fields of web, software, and mobile application development.
+![](https://github-readme-stats.vercel.app/api?username=matilde-varela&show_icons=true&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=matilde-varela&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matilde-varela&layout=compact&theme=tokyonight&hide_border=false)
