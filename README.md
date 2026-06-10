@@ -8,7 +8,7 @@ I'm currently pursuing a master's degree focused on **game development** and **c
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="25" height="25" /> Experienced in full-stack development, with a particular focus on clean interfaces and user experience.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> **Game dev enthusiast** — currently building a witchcraft-themed JRPG in Godot 4.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> **Graphics & shaders** — fascinated by the intersection of code and visual art.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Artist%20Light%20Skin%20Tone.png" alt="Artist Light Skin Tone" width="25" height="25" /> **Graphics & shaders** — fascinated by the intersection of code and visual art.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="25" height="25" /> Languages
 
@@ -70,11 +70,9 @@ I'm currently pursuing a master's degree focused on **game development** and **c
 ## Game Development & Graphics
 
 [![Game](https://skillicons.dev/icons?i=godot,blender&theme=dark&perline=8)](https://skillicons.dev)
-<p align="left">
-  <a href="https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language" title="GLSL / Shader Language">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" alt="GLSL" width="48" height="48" />
-  </a>
-</p>
+<a href="https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language" title="GLSL / Shader Language">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" alt="GLSL" width="48" height="48" />
+</a>
 
 ## Development Environments
 
@@ -102,4 +100,4 @@ I'm currently pursuing a master's degree focused on **game development** and **c
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Socials
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/matilde-varela)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/matilde-varela-b355b12a8/?skipRedirect=true)
