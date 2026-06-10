@@ -1,7 +1,5 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" /> Matilde Varela
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hello
-
 I'm a **Software Developer** at [Devscope](https://devscope.net/), with a degree in Software Engineering from ISEP. I work across the full stack with a strong pull toward frontend, UI/UX, and making things feel good to use.
 
 I'm currently pursuing a master's degree focused on **game development** and **computer graphics** — two areas I've been passionate about since long before I wrote my first line of code.
@@ -47,7 +45,7 @@ I'm currently pursuing a master's degree focused on **game development** and **c
 
 ## Frameworks & Libraries
 
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,angular,threejs,nodejs&theme=dark&perline=8)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,angular,react,nextjs,threejs,nodejs&theme=dark&perline=8)](https://skillicons.dev)
 
 ## Database Management Systems
 
@@ -61,13 +59,18 @@ I'm currently pursuing a master's degree focused on **game development** and **c
   </a>
 </p>
 
+## Cloud
+
+[![Cloud](https://skillicons.dev/icons?i=azure,aws&theme=dark&perline=8)](https://skillicons.dev)
+
+## Design & Prototyping
+
+[![Design](https://skillicons.dev/icons?i=figma&theme=dark&perline=8)](https://skillicons.dev)
+
 ## Game Development & Graphics
 
 [![Game](https://skillicons.dev/icons?i=godot,blender&theme=dark&perline=8)](https://skillicons.dev)
 <p align="left">
-  <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/" title="GDScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="GDScript" width="48" height="48" />
-  </a>
   <a href="https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language" title="GLSL / Shader Language">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" alt="GLSL" width="48" height="48" />
   </a>
@@ -75,7 +78,7 @@ I'm currently pursuing a master's degree focused on **game development** and **c
 
 ## Development Environments
 
-[![IDEs](https://skillicons.dev/icons?i=idea,vscode&theme=dark&perline=8)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=idea,vscode,vs&theme=dark&perline=8)](https://skillicons.dev)
 
 ## Version Control
 
@@ -84,7 +87,7 @@ I'm currently pursuing a master's degree focused on **game development** and **c
 ## Project Management & Collaboration
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,trello&perline=8" alt="Jira Trello" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,notion,trello&perline=8" alt="Jira Notion Trello" />
 </p>
 
 ---
@@ -94,3 +97,9 @@ I'm currently pursuing a master's degree focused on **game development** and **c
 ![](https://github-readme-stats.vercel.app/api?username=matilde-varela&show_icons=true&theme=tokyonight&hide_border=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=matilde-varela&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matilde-varela&layout=compact&theme=tokyonight&hide_border=false)
+
+---
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Socials
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/matilde-varela)
